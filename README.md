@@ -5,7 +5,7 @@ Power BI sales dashboard built on AA Data Labs 2025 practice data: cleaned in Po
 
 ![Dashboard](Sales_Overview.png‎)
 
-A one-page Power BI dashboard built on a synthetic 2025 sales dataset. The data is made-up practice data. It is not client or employer data.
+A one-page Power BI dashboard built on a AA Data Labs 2025 practice data. The data is made-up practice data. It is not client or employer data.
 
 ## What the dashboard shows
 
